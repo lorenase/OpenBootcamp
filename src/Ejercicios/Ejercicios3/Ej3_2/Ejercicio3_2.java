@@ -1,4 +1,4 @@
-package Ejercicios.Ej3_2;
+package Ejercicios.Ejercicios3.Ej3_2;
 
 public class Ejercicio3_2 {
     public static void main(String[] args){

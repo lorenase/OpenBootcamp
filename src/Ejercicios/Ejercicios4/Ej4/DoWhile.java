@@ -1,4 +1,4 @@
-package Ejercicios.Ej4;
+package Ejercicios.Ejercicios4.Ej4;
 
 public class DoWhile {
     public static void main(String[] args){
