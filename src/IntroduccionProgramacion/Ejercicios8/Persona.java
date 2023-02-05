@@ -1,4 +1,4 @@
-package Ejercicios8;
+package IntroduccionProgramacion.Ejercicios8;
 
 public class Persona {
     private int edad;

@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicios9;
+package IntroduccionProgramacion.Ejercicios.Ejercicios9;
 
 public class Ejercicio9 {
     public static void main(String[] args){

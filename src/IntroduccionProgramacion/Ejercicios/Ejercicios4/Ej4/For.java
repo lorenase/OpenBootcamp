@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicios4.Ej4;
+package IntroduccionProgramacion.Ejercicios.Ejercicios4.Ej4;
 
 public class For {
     public static void main(String[] args) {

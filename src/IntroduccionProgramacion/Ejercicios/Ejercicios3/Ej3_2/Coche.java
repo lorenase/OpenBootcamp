@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicios3.Ej3_2;
+package IntroduccionProgramacion.Ejercicios.Ejercicios3.Ej3_2;
 
 public class Coche {
     int puertas = 0;

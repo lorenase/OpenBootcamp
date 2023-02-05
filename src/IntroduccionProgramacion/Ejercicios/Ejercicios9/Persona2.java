@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicios9;
+package IntroduccionProgramacion.Ejercicios.Ejercicios9;
 
 
 public abstract class Persona2 {
